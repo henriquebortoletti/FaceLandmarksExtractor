@@ -1,0 +1,13 @@
+Input:/home/bortoletti/projects/mastership/oxford_images/22q11/image_10001_jpg.jpg
+Input full path:/home/bortoletti/projects/mastership/oxford_images/22q11/image_10001_jpg.jpg
+Camera parameters:230.208,230.208,150,108.5
+Output HOG:points.hog
+Output video:points.avi
+Output aligned directory:points_aligned
+Output csv:points.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
